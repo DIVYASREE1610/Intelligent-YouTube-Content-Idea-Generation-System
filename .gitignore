@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+yt_idea_generator/
+.venv/
+venv/
